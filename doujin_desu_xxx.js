@@ -1,6 +1,6 @@
 // ID: ext_doujin_desu_xxx
 // NAME: Doujin Desu (XXX)
-// VERSION: 1.0.2
+// VERSION: 1.0.3
 // COLOR: #3B82F6
 // ICON: https://doujin.desu.xxx/favicon.ico
 // REFERER: https://doujin.desu.xxx/
